@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BQ76920
+D I2C Based Battery Monitoring and Control ASIC in TSSOP20 Package
+$ENDCMP
+#
 $CMP IFX9201SG
 D H-Bridge Inbuilt MOSFET Motor Driver upto 6A
 $ENDCMP
