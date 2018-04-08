@@ -39,11 +39,11 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "ARTIFICIAL LIMB DRIVER CARD"
-Date "2018-03-13"
+Date "2018-04-08"
 Rev "0.1"
 Comp ""
-Comment1 "Checked : SParnerkar"
-Comment2 "Engineer : SParnerkar"
+Comment1 "Checked : mighty840"
+Comment2 "Engineer : mighty840"
 Comment3 ""
 Comment4 ""
 $EndDescr
@@ -1160,7 +1160,7 @@ U 1 1 5ACA3200
 P 1050 1450
 F 0 "J1" H 1050 1750 50  0000 C CNN
 F 1 "Screw_Terminal_01x06" H 1050 1050 50  0000 C CNN
-F 2 "" H 1050 1450 50  0001 C CNN
+F 2 "TerminalBlocks_Phoenix:TerminalBlock_Phoenix_MKDS1.5-6pol" H 1050 1450 50  0001 C CNN
 F 3 "" H 1050 1450 50  0001 C CNN
 	1    1050 1450
 	-1   0    0    1   
@@ -1171,7 +1171,7 @@ U 1 1 5ACA32BB
 P 10800 4550
 F 0 "J4" H 10800 4650 50  0000 C CNN
 F 1 "Screw_Terminal_01x02" H 10800 4350 50  0000 C CNN
-F 2 "" H 10800 4550 50  0001 C CNN
+F 2 "TerminalBlocks_Phoenix:TerminalBlock_Phoenix_MKDS1.5-2pol" H 10800 4550 50  0001 C CNN
 F 3 "" H 10800 4550 50  0001 C CNN
 	1    10800 4550
 	1    0    0    -1  
@@ -1186,7 +1186,7 @@ U 1 1 5ACA48A2
 P 6000 4650
 F 0 "J2" H 6000 4750 50  0000 C CNN
 F 1 "Screw_Terminal_01x02" H 6000 4450 50  0000 C CNN
-F 2 "" H 6000 4650 50  0001 C CNN
+F 2 "TerminalBlocks_Phoenix:TerminalBlock_Phoenix_MKDS1.5-2pol" H 6000 4650 50  0001 C CNN
 F 3 "" H 6000 4650 50  0001 C CNN
 	1    6000 4650
 	1    0    0    -1  
